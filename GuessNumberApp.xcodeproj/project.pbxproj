@@ -11,6 +11,7 @@
 		FF3C2759261CAC7200F016E4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF3C2758261CAC7200F016E4 /* ContentView.swift */; };
 		FF3C275B261CAC7200F016E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF3C275A261CAC7200F016E4 /* Assets.xcassets */; };
 		FF3C275E261CAC7200F016E4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF3C275D261CAC7200F016E4 /* Preview Assets.xcassets */; };
+		FF3C2767261CACC400F016E4 /* SliderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF3C2766261CACC400F016E4 /* SliderUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FF3C275A261CAC7200F016E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FF3C275D261CAC7200F016E4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FF3C275F261CAC7200F016E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF3C2766261CACC400F016E4 /* SliderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				FF3C2756261CAC7200F016E4 /* GuessNumberAppApp.swift */,
 				FF3C2758261CAC7200F016E4 /* ContentView.swift */,
+				FF3C2766261CACC400F016E4 /* SliderUIView.swift */,
 				FF3C275A261CAC7200F016E4 /* Assets.xcassets */,
 				FF3C275F261CAC7200F016E4 /* Info.plist */,
 				FF3C275C261CAC7200F016E4 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				FF3C2759261CAC7200F016E4 /* ContentView.swift in Sources */,
 				FF3C2757261CAC7200F016E4 /* GuessNumberAppApp.swift in Sources */,
+				FF3C2767261CACC400F016E4 /* SliderUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
